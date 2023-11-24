@@ -1,0 +1,14 @@
+C:\Users\isel06002\source\repos\Uppgift3OP\Uppgift3OP\obj\Debug\net6.0\Uppgift3OP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isel06002\source\repos\Uppgift3OP\Uppgift3OP\obj\Debug\net6.0\Uppgift3OP.AssemblyInfoInputs.cache
+C:\Users\isel06002\source\repos\Uppgift3OP\Uppgift3OP\obj\Debug\net6.0\Uppgift3OP.AssemblyInfo.cs
+C:\Users\isel06002\source\repos\Uppgift3OP\Uppgift3OP\obj\Debug\net6.0\Uppgift3OP.csproj.CoreCompileInputs.cache
+C:\Users\isel06002\source\repos\Uppgift3OP\Uppgift3OP\bin\Debug\net6.0\Uppgift3OP.exe
+C:\Users\isel06002\source\repos\Uppgift3OP\Uppgift3OP\bin\Debug\net6.0\Uppgift3OP.deps.json
+C:\Users\isel06002\source\repos\Uppgift3OP\Uppgift3OP\bin\Debug\net6.0\Uppgift3OP.runtimeconfig.json
+C:\Users\isel06002\source\repos\Uppgift3OP\Uppgift3OP\bin\Debug\net6.0\Uppgift3OP.dll
+C:\Users\isel06002\source\repos\Uppgift3OP\Uppgift3OP\bin\Debug\net6.0\Uppgift3OP.pdb
+C:\Users\isel06002\source\repos\Uppgift3OP\Uppgift3OP\obj\Debug\net6.0\Uppgift3OP.dll
+C:\Users\isel06002\source\repos\Uppgift3OP\Uppgift3OP\obj\Debug\net6.0\refint\Uppgift3OP.dll
+C:\Users\isel06002\source\repos\Uppgift3OP\Uppgift3OP\obj\Debug\net6.0\Uppgift3OP.pdb
+C:\Users\isel06002\source\repos\Uppgift3OP\Uppgift3OP\obj\Debug\net6.0\Uppgift3OP.genruntimeconfig.cache
+C:\Users\isel06002\source\repos\Uppgift3OP\Uppgift3OP\obj\Debug\net6.0\ref\Uppgift3OP.dll
