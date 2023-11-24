@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Uppgift1OP/1.0.0": {
+        "runtime": {
+          "Uppgift1OP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Uppgift1OP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
